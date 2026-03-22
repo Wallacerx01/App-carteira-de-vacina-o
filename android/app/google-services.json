@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024480840904",
+    "project_id": "carteirade-vacinacao-207jtb",
+    "storage_bucket": "carteirade-vacinacao-207jtb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024480840904:android:3c24a17be73bef546629fd",
+        "android_client_info": {
+          "package_name": "com.mycompany.carteiradevacinacao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZY8nIZEx7kgmAmB0SMJpdTb9JsU2xeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

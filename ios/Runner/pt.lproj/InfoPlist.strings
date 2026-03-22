@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "“Este app precisa acessar sua câmera para que você possa tirar fotos e enviar imagens.”";
+NSPhotoLibraryUsageDescription = "“Este app precisa acessar suas fotos para que você possa selecionar imagens do seu dispositivo.”";
+NSLocationWhenInUseUsageDescription = "“Precisamos da sua localização para fornecer serviços baseados em onde você está.”";
